@@ -77,4 +77,5 @@ Customer churn prediction can help businesses identify customers who may leave b
 
 **Laiba Nasir**
 
-NeuroFive ML Track — Task 6
+AI Intern | Engineering Student
+
